@@ -10,6 +10,7 @@ Advanced AWS AI/ML Services
 Integration and Workflows
 Best Practices and Advanced Topics
 Case Studies and Real-World Scenarios
+Generative AI
 
 For a detailed breakdown of each chapter, please refer to the full table of contents.
 Key Features
